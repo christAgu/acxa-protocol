@@ -1,6 +1,6 @@
 # ACXA Network landing page
 
-A responsive, dependency-free landing page for the ACXA Layer 2 network vision. The messaging describes planned infrastructure, not a launched network or live fiat corridors.
+A responsive, dependency-free landing page for ACXA's dedicated distributed ledger vision. The messaging describes planned node infrastructure and Mobile Money API connectivity, not a launched network or live fiat corridors.
 
 ## Run locally
 
