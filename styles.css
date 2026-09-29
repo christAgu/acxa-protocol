@@ -61,8 +61,7 @@ img { display: block; max-width: 100%; }
 .button span, .text-link span, .dark-link span { font-size: 20px; font-weight: 400; line-height: 0; }
 .text-link { display: inline-flex; align-items: center; gap: 10px; color: white; font-size: 13px; font-weight: 700; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,.45); padding-bottom: 6px; }
 .text-link:hover { border-color: white; }
-.hero-footnote { display: flex; align-items: center; gap: 10px; margin-top: 77px; font-size: 11px; letter-spacing: .055em; color: #9ab2d6; }
-.footnote-symbol { font-size: 20px; line-height: 1; color: #84b3ff; }
+.hero-footnote { margin-top: 77px; font-size: 11px; letter-spacing: .055em; color: #9ab2d6; }
 .hero-bottom { position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); display: flex; justify-content: space-between; align-items: center; height: 55px; border-top: 1px solid rgba(192,216,255,.17); color: #7793bd; font: 700 10px/1 var(--font-display); letter-spacing: .16em; }
 .hero-bottom span span { margin-left: 13px; color: #fff; font-size: 17px; }
 
